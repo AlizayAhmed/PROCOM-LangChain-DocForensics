@@ -12,21 +12,20 @@
 ```
 Stage-2/
 ├── main.py                  # Main pipeline orchestrator
-├── document_loader.py       # Universal file loader (txt/pdf/csv/json)
+├── batch_qa.py              # Batch Q&A processing
+├── document_loader.py       # Universal file loader (txt/csv/json)
 ├── extraction_chain.py      # Fact extraction using LangChain
-├── reasoning_chain.py       # Final killer identification
+├── reasoning_chain.py       # Final reasoning logic
 ├── qa.py                    # Interactive Q&A system
+├── questions.txt            # List of questions for batch Q&A
 ├── requirements.txt         # Dependencies
 ├── .env                     # API keys (create this)
-├── docs/                    # Place 12 documents here
-│   ├── ATLAS_Admin_Logs.txt
-│   ├── Financial_Ledger.csv
-│   ├── Security_Access.json
-│   ├── Medical_Log_Ayaan.pdf
-│   └── ... (8 more files)
-└── outputs/                 # Auto-generated results
-    ├── extracted_facts.json
-    └── final_result.json
+├── outputs/                 # Auto-generated results
+│   ├── all_answers_*.json   # Batch answers
+│   ├── answer_*.txt         # Individual answers
+│   ├── extracted_facts.json # Extracted facts
+│   └── final_result.json    # Final reasoning result
+```
 ```
 
 ## ⚙️ Setup Instructions
@@ -49,8 +48,8 @@ GROQ_API_KEY=your_groq_api_key_here
 ```
 
 ### 4. Add Documents
-- Create `docs/` folder
-- Place all 12 documents inside
+
+Place your documents in the same folder or update document_loader.py to point to your document sources.
 
 ## 🚀 Usage
 

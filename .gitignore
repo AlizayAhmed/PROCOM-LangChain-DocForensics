@@ -1,0 +1,25 @@
+# Ignore Python virtual environments
+venv/
+
+# Ignore environment variables
+.env
+
+# Ignore outputs if not needed for repo (optional, comment out if you want to keep outputs in git)
+# outputs/
+
+# Ignore OS files
+*.DS_Store
+Thumbs.db
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore logs
+*.log
+
+# Ignore VS Code settings
+.vscode/
