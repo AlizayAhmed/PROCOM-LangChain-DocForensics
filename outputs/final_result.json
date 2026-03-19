@@ -1,0 +1,15 @@
+{
+  "killer": "I. Siddiqui",
+  "reasoning": "I. Siddiqui is identified as the primary person responsible for Dr. Ayan's death due to a combination of financial motives, system overrides, and access. The Will_Redacted.pdf document reveals that Dr. Ayan's will was amended, removing Zara Qureshi as a direct beneficiary and introducing significant changes in the distribution, with 60% allocated to the Interim National Oversight Trust. This suggests a potential financial motive for I. Siddiqui, who is mentioned in the will. The ATLAS_Admin_Logs.txt document shows that the Ethics & Safeguards Layer was disabled, and the NPID_ATLAS_Architecture.pdf document mentions that IS-01 ( potentially linked to I. Siddiqui) was involved in this action. The Kitchen_Service_Log.csv document indicates that Dr. Ayan consumed a contraindicated herbal concentrate, which could have been tampered with. I. Siddiqui's involvement in the will amendment, system overrides, and potential access to Dr. Ayan's food and drink suggest a means, motive, and opportunity for the crime.",
+  "accomplices": [
+    "Nadia Kaleem",
+    "IS-01"
+  ],
+  "key_evidence": [
+    "Will_Redacted.pdf: Amendment of Dr. Ayan's will, removing Zara Qureshi as a direct beneficiary",
+    "ATLAS_Admin_Logs.txt: Disablement of Ethics & Safeguards Layer",
+    "NPID_ATLAS_Architecture.pdf: Involvement of IS-01 in disabling the Ethics & Safeguards Layer",
+    "Kitchen_Service_Log.csv: Dr. Ayan's consumption of contraindicated herbal concentrate",
+    "Security_Access.json: Nadia Kaleem's multiple accesses to the Study and potential involvement in the crime"
+  ]
+}

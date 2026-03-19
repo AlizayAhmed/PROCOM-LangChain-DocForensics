@@ -1,0 +1,16 @@
+QUESTION 4:
+What caused the blackout?
+
+ANSWER:
+Based on the provided documents, the blackout occurred on August 14, 2026, at 21:40. 
+
+The information about the blackout can be found in the "Power_Maintenance.txt" document, specifically in the "SECTION 3 — INCIDENT WINDOW (21:30–22:15)" section.
+
+The relevant text is:
+
+"21:40 — Sudden voltage fluctuation detected
+21:41 — Power diverted from Executive Study
+21:42 — Camera systems in Zone Z-03 report instability
+21:43 — Backup UPS engaged (partial)
+21:48 — Manual diversion confirmed
+Source: Internal Panel C"

@@ -1,0 +1,7 @@
+QUESTION 3:
+When was the study accessed?
+
+ANSWER:
+Based on the provided documents, the study accessed by Dr. Ayaan Qureshi was accessed on August 14, 2026, at 19:03. 
+
+This information can be found in the "Security_Access.json" document, specifically in the "zones" section, under the "STUDY" zone, where it is mentioned that Salman Raza (card ID: AR-14) was denied access at 17:08, and Nadia Kaleem (card ID: NK-31) was granted access at 19:03.

@@ -1,0 +1,13 @@
+QUESTION 1:
+What condition did Dr. Ayaan suffer from?
+
+ANSWER:
+According to the Medical_Log_Ayaan.pdf, Dr. Ayaan Qureshi suffered from:
+
+1. Essential Tremor (Stage II–III) - a neurological condition (Page 1)
+2. Stress-amplified neuromuscular instability - a condition that worsened his tremors (Page 1)
+3. Mild beta-adrenergic sensitivity - a cardiovascular condition (Page 1)
+4. Reduced oxygen saturation - noted during acute pharmacological interaction testing (Page 1)
+5. Elevated stress markers - correlated with extended system development cycles and ethical review conflicts (Page 1)
+
+These conditions were being managed through medication, including Propranolol (Beta Blocker) and Neurostabilizer Compound NX-17, as well as supplements such as Magnesium Glycinate and low-potency chamomile infusion.

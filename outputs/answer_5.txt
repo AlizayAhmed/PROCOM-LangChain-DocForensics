@@ -1,0 +1,7 @@
+QUESTION 5:
+Which entity funded supplement purchases?
+
+ANSWER:
+Based on the provided documents, the entity that funded supplement purchases is ShellCo-17. 
+
+This information can be found in the Financial_Ledger.csv document, specifically in Record 2 and Record 4, which show transactions from ShellCo-17 to GreenVale Nutraceuticals for supplement purchases.

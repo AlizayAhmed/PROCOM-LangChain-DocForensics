@@ -1,0 +1,5 @@
+QUESTION 9:
+What system state followed the override?
+
+ANSWER:
+ERROR: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01k868vbtnen78y46dcnwxded0` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 95733, Requested 10961. Please try again in 1h36m23.616s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}

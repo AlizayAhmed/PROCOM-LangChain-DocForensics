@@ -1,0 +1,372 @@
+{
+  "Archived_AI_Ethics_Essays.pdf": {
+    "raw_response": "{\n  \"key_people\": [\"Professor Marcus Thorne\"],\n  \"suspicious_actions\": [\"ethics washing\" as a corporate practice],\n  \"financial_anomalies\": [],\n  \"timeline_events\": [\n    \"2014-2019: Archive window for AI ethics essays\",\n    \"2015-2016: Public perception data period\",\n    \"November 2016: Publication of 'The Illusion of Ethical Automation' essay\",\n    \"March 2019: Publication of 'Human Oversight in Machine Governance' essay\",\n    \"Q3 2019: ATLAS system development commenced\"\n  ],\n  \"system_overrides\": [],\n  \"medical_findings\": [],\n  \"other_evidence\": [\n    \"The Attribution Error: Humans attributing intention and moral reasoning to complex systems\",\n    \"Responsibility Diffusion: Multi-layered systems obscuring responsibility for outcomes\",\n    \"Ethical Window Dressing: Ethics frameworks serving public relations functions rather than substantive governance\",\n    \"Predicted tension between operational efficiency and ethical constraints\"\n  ]\n}"
+  },
+  "ATLAS_Admin_Logs.txt": {
+    "key_people": [
+      "AQ-01",
+      "IS-01",
+      "KH-02"
+    ],
+    "suspicious_actions": [
+      "Repeated external administrative access requests",
+      "Conditional approval of read-only access",
+      "Upload of internal Ethics Advisory Memo",
+      "Disablement of Ethics & Safeguards Layer"
+    ],
+    "financial_anomalies": [],
+    "timeline_events": [
+      "14 Aug 20XX 00:01 - System heartbeat stable",
+      "14 Aug 20XX 18:07 - Behavioral deviation flag: Subject AQ-01",
+      "14 Aug 20XX 20:46 - Elevated governance alert triggered",
+      "14 Aug 20XX 21:01:43 - ACTION EXECUTED: Ethics & Safeguards Layer disabled",
+      "14 Aug 20XX 21:12 - Recommendation thresholds recalibrated",
+      "14 Aug 20XX 22:31 - Clock drift detected",
+      "14 Aug 20XX 23:02 - Biological status change detected (AQ-01)",
+      "14 Aug 20XX 23:59 - Daily log sealed"
+    ],
+    "system_overrides": [
+      "Disablement of Ethics & Safeguards Layer",
+      "Dual-authorization override",
+      "Conditional approval of read-only access"
+    ],
+    "medical_findings": [
+      "Medical data synchronization (executive tier) at 08:12",
+      "Biological status change detected (AQ-01) at 23:02"
+    ],
+    "other_evidence": [
+      "ATLAS system operating in 'Cold Stability' mode",
+      "Visual logging reduced at 21:42",
+      "Facility power instability detected at 21:40",
+      "Clock drift detected and correction suppressed"
+    ]
+  },
+  "Financial_Ledger.csv": {
+    "key_people": [],
+    "suspicious_actions": [
+      "Multiple large transactions between IS Consulting Pvt Ltd and ShellCo-17",
+      "Frequent transactions between ShellCo-17 and GreenVale Nutraceuticals",
+      "Transaction with 'Non-regulated batch' note (Record 7)",
+      "Transaction with 'High-potency extract' note (Record 11)",
+      "Late-night delivery (Record 14)",
+      "Expedited concentrate order (Record 16)"
+    ],
+    "financial_anomalies": [
+      "Large and frequent transactions between IS Consulting Pvt Ltd and ShellCo-17",
+      "Unusual transaction amounts and frequencies between ShellCo-17 and GreenVale Nutraceuticals"
+    ],
+    "timeline_events": [
+      "202X-05-02: IS Consulting Pvt Ltd sends 850,000 PKR to ShellCo-17",
+      "202X-05-06: ShellCo-17 sends 420,000 PKR to GreenVale Nutraceuticals",
+      "202X-05-12: IS Consulting Pvt Ltd sends 1,200,000 PKR to ShellCo-17",
+      "202X-05-18: ShellCo-17 sends 390,000 PKR to GreenVale Nutraceuticals",
+      "202X-06-01: IS Consulting Pvt Ltd sends 260,000 PKR to UrbanLink Logistics",
+      "202X-06-03: UrbanLink Logistics sends 255,000 PKR to ShellCo-17",
+      "202X-06-07: ShellCo-17 sends 510,000 PKR to GreenVale Nutraceuticals",
+      "202X-06-15: IS Consulting Pvt Ltd sends 980,000 PKR to ShellCo-17",
+      "202X-06-20: ShellCo-17 sends 310,000 PKR to MedCore Labs",
+      "202X-07-02: IS Consulting Pvt Ltd sends 1,500,000 PKR to ShellCo-17",
+      "202X-07-05: ShellCo-17 sends 465,000 PKR to GreenVale Nutraceuticals",
+      "202X-07-12: IS Consulting Pvt Ltd sends 620,000 PKR to ShellCo-17",
+      "202X-07-18: ShellCo-17 sends 240,000 PKR to UrbanLink Logistics",
+      "202X-07-21: ShellCo-17 sends 395,000 PKR to GreenVale Nutraceuticals",
+      "202X-08-01: IS Consulting Pvt Ltd sends 1,750,000 PKR to ShellCo-17",
+      "202X-08-04: ShellCo-17 sends 530,000 PKR to GreenVale Nutraceuticals",
+      "202X-08-10: ShellCo-17 sends 285,000 PKR to MedCore Labs",
+      "202X-08-12: IS Consulting Pvt Ltd sends 2,100,000 PKR to ShellCo-17",
+      "202X-08-13: ShellCo-17 sends 610,000 PKR to GreenVale Nutraceuticals"
+    ],
+    "system_overrides": [],
+    "medical_findings": [
+      "Herbal extract batch A (Record 2)",
+      "Concentrated extracts (Record 4)",
+      "Non-regulated batch (Record 7)",
+      "High-potency extract (Record 11)",
+      "Stability Testing (Record 17)"
+    ],
+    "other_evidence": [
+      "Approval codes (e.g., AP-441, AP-447) for all transactions",
+      "Notes on transactions (e.g., 'nan', 'Herbal extract batch A')",
+      "Entity relationships (e.g., IS Consulting Pvt Ltd, ShellCo-17, GreenVale Nutraceuticals)"
+    ]
+  },
+  "Human_Trafficking_Report_ATLAS.txt": {
+    "raw_response": "{\n  \"key_people\": [\"KH-02\"],\n  \"suspicious_actions\": [\n    \"coordinated human trafficking activity\",\n    \"financial laundering\",\n    \"political shielding\",\n    \"controlled administrative blind spots\",\n    \"recurrent late-night cross-border movements\",\n    \"administrative non-reporting cycles\"\n  ],\n  \"financial_anomalies\": [\n    \"financial micro-transactions\",\n    \"repeated financial rounding patterns\",\n    \"low audit priority\" financial entities\n  ],\n  \"timeline_events\": [\n    \"28 July 20XX (report generation)\",\n    \"29 July 20XX \u2014 09:12 (override event logged)\"\n  ],\n  \"system_overrides\": [\n    \"Alert Status Changed to NON\u2011CRITICAL\",\n    \"Distribution: HALTED\"\n  ],\n  \"medical_findings\": [\n    \"medical intake spikes near transport corridors\",\n    \"hospital admission anomalies\"\n  ],\n  \"other_evidence\": [\n    \"border entry/exit logs\",\n    \"telecom mobility clusters\",\n    \"NGO missing persons reports\"\n  ]\n}"
+  },
+  "Kitchen_Service_Log.csv": {
+    "key_people": [
+      "Salman Raza",
+      "Ayesha Khan",
+      "Imran Bashir",
+      "Nadia Kaleem",
+      "Dr. Ayaan Qureshi",
+      "I. Siddiqui"
+    ],
+    "suspicious_actions": [
+      "Returned unopened Chamomile Concentrate (Herbal Extract) on 14/08/2026 at 10:14:00 am",
+      "Multiple deliveries to Dr. Ayaan Qureshi's Study room"
+    ],
+    "financial_anomalies": [],
+    "timeline_events": [
+      "06:05:00 am - Continental Breakfast Tray delivered to Executive Dining",
+      "09:00:00 am - Chamomile Infusion delivered to Study",
+      "10:14:00 am - Chamomile Concentrate returned unopened",
+      "10:45:00 am - Electrolyte Drink delivered to Security Lounge",
+      "12:05:00 pm - Executive Lunch Tray delivered to Private Dining",
+      "07:05:00 pm - Chamomile Concentrate delivered to Study",
+      "07:55:00 pm - Filtered Water Bottle delivered to Study"
+    ],
+    "system_overrides": [],
+    "medical_findings": [
+      "Dr. Ayaan Qureshi requested calming tea",
+      "Dr. Ayaan Qureshi restless"
+    ],
+    "other_evidence": [
+      "Multiple requests for beverages and snacks by Dr. Ayaan Qureshi",
+      "Supervisor initials 'AR' and 'NK' appear frequently"
+    ]
+  },
+  "Legacy_Training_Manual_ATLAS.pdf": {
+    "key_people": [],
+    "suspicious_actions": [],
+    "financial_anomalies": [],
+    "timeline_events": [
+      "2018-09-15: Publication Date of ATLAS OPERATOR TRAINING MANUAL Edition 1.2",
+      "2018-2020: Phase 1 deployment"
+    ],
+    "system_overrides": [
+      "Manual override active (indicated by blue color)",
+      "No administrative override codes",
+      "No emergency bypass procedures",
+      "No mechanism for human intervention in ethics assessments"
+    ],
+    "medical_findings": [],
+    "other_evidence": [
+      "ATLAS system operator procedures",
+      "Legacy ethics framework",
+      "Incident simulation exercises",
+      "Archival and retention justification"
+    ]
+  },
+  "Medical_Log_Ayaan.pdf": {
+    "key_people": [
+      "Dr. Ayaan Qureshi",
+      "Dr. R. Malik"
+    ],
+    "suspicious_actions": [
+      "Consumption of contraindicated herbal concentrate"
+    ],
+    "financial_anomalies": [],
+    "timeline_events": [
+      "02 Aug: Patient reports worsening tremors",
+      "07 Aug: Patient expresses concern over 'ethical burden'",
+      "11 Aug: Warning reiterated about herbal concentrates",
+      "14 Aug 20:30: Patient takes evening dose of propranolol",
+      "14 Aug 21:15: Patient consumes herbal beverage",
+      "14 Aug 22:10: Patient reports heaviness, fatigue",
+      "14 Aug 22:45: Motor coordination degraded",
+      "14 Aug 23:10: Cyanosis observed"
+    ],
+    "system_overrides": [],
+    "medical_findings": [
+      "Essential Tremor (Stage II-III)",
+      "Stress-amplified neuromuscular instability",
+      "Elevated stress markers",
+      "Mild beta-adrenergic sensitivity",
+      "Delayed cardiopulmonary collapse",
+      "Cyanosis",
+      "Respiratory suppression",
+      "Bradycardia"
+    ],
+    "other_evidence": [
+      "Presence of trace herbal alkaloids",
+      "No blunt force trauma or injected toxins"
+    ]
+  },
+  "NPID_ATLAS_Architecture.pdf": {
+    "key_people": [
+      "IS-01",
+      "KH-02"
+    ],
+    "suspicious_actions": [
+      "Disabling of Ethics & Safeguards Layer"
+    ],
+    "financial_anomalies": [
+      "Banking transaction metadata used in ATLAS"
+    ],
+    "timeline_events": [
+      "14 August, 20XX",
+      "21:01:43"
+    ],
+    "system_overrides": [
+      "Administrative Override Mechanism",
+      "Ethics & Safeguards Layer \u2014 DISABLED"
+    ],
+    "medical_findings": [
+      "Hospital admission logs used in ATLAS"
+    ],
+    "other_evidence": [
+      "ATLAS recommendations may be used for predictive criminalization",
+      "Cold Stability mode may lead to morally indefensible actions"
+    ]
+  },
+  "Power_Maintenance.txt": {
+    "key_people": [
+      "Facilities Supervisor",
+      "Senior Electrical Technician"
+    ],
+    "suspicious_actions": [
+      "Manual access to Internal Panel C",
+      "Manual diversion of power from Executive Study",
+      "Override of system clock drift correction request"
+    ],
+    "financial_anomalies": [],
+    "timeline_events": [
+      "00:00 \u2014 Municipal grid stable",
+      "02:30 \u2014 Generator self-test cycle completed",
+      "04:00 \u2014 UPS systems within tolerance",
+      "06:45 \u2014 Morning load increase",
+      "09:00 \u2014 Power audit completed",
+      "12:00 \u2014 Peak daytime consumption recorded",
+      "15:30 \u2014 Routine thermal inspection",
+      "18:05 \u2014 Evening load redistribution initiated",
+      "18:40 \u2014 Security zone power isolation test",
+      "18:55 \u2014 Test completed \u2014 reverted to grid",
+      "19:20 \u2014 Manual access to Internal Panel C logged",
+      "21:40 \u2014 Sudden voltage fluctuation detected",
+      "21:41 \u2014 Power diverted from Executive Study",
+      "21:42 \u2014 Camera systems in Zone Z-03 report instability",
+      "21:43 \u2014 Backup UPS engaged",
+      "21:48 \u2014 Manual diversion confirmed",
+      "21:55 \u2014 Generator did NOT engage",
+      "22:03 \u2014 Network latency increase reported",
+      "22:05 \u2014 Visual recording temporarily suspended",
+      "22:16 \u2014 Power gradually restored to Executive Study",
+      "22:20 \u2014 Camera systems resume",
+      "22:31 \u2014 System clock drift detected",
+      "22:33 \u2014 Drift correction request overridden",
+      "22:45 \u2014 All systems nominal",
+      "23:10 \u2014 No further anomalies"
+    ],
+    "system_overrides": [
+      "Manual diversion of power from Executive Study",
+      "Override of system clock drift correction request",
+      "Restrict Internal Panel C access to dual-authentication only (recommended)"
+    ],
+    "medical_findings": [],
+    "other_evidence": [
+      "Technician statement indicating deliberate action",
+      "No external grid instability or environmental cause identified",
+      "Risk Assessment: Manual diversion during active occupancy introduces unacceptable safety and security risks"
+    ]
+  },
+  "Security_Access.json": {
+    "key_people": [
+      "Dr. Ayaan Qureshi",
+      "Nadia Kaleem",
+      "Ayesha Khan",
+      "Salman Raza",
+      "Imran Bashir"
+    ],
+    "suspicious_actions": [
+      "Multiple accesses to the Study by Nadia Kaleem",
+      "Denied access to the Study by Salman Raza and Imran Bashir",
+      "Power fluctuation and camera outage in the Study"
+    ],
+    "financial_anomalies": [],
+    "timeline_events": [
+      "06:00 - Salman Raza accessed the KITCHEN",
+      "07:58 - Dr. Ayaan Qureshi accessed the STUDY",
+      "09:01 - Nadia Kaleem accessed the STUDY",
+      "09:32 - Ayesha Khan accessed the STUDY",
+      "13:12 - Nadia Kaleem accessed the STUDY",
+      "17:08 - Salman Raza denied access to the STUDY",
+      "18:40 - Imran Bashir accessed the SECURITY_LOUNGE",
+      "19:03 - Nadia Kaleem accessed the STUDY",
+      "21:27 - Nadia Kaleem accessed the STUDY",
+      "21:40 - Camera outage in the STUDY",
+      "21:41 - Power fluctuation alert in the STUDY",
+      "21:55 - Imran Bashir accessed the SECURITY_LOUNGE",
+      "22:31 - Clock drift detected",
+      "22:33 - Drift correction suppressed",
+      "22:41 - Imran Bashir denied access to the STUDY"
+    ],
+    "system_overrides": [
+      "Drift correction suppressed by SYSTEM_ADMIN"
+    ],
+    "medical_findings": [],
+    "other_evidence": [
+      "Partial camera outages reported during maintenance window",
+      "Internal power diversion coincides with camera outage"
+    ]
+  },
+  "Staff_Code_of_Conduct.pdf": {
+    "key_people": [],
+    "suspicious_actions": [
+      "Harassment in any form",
+      "Coercion or intimidation of colleagues or subordinates",
+      "Bullying",
+      "Retaliation against whistleblowers or complaint filers",
+      "Creation of hostile work environments",
+      "Discrimination based on protected characteristics",
+      "Tailgating",
+      "Piggybacking",
+      "Badge lending",
+      "Unauthorized entry attempts"
+    ],
+    "financial_anomalies": [
+      "Failure to disclose outside employment and consulting activities",
+      "Failure to disclose investment holdings exceeding $5,000",
+      "Failure to disclose corporate board memberships",
+      "Failure to disclose significant gifts or gratuities received",
+      "Failure to disclose family business interests"
+    ],
+    "timeline_events": [
+      "2023-01-01: Effective date of Code of Conduct Version 4.1",
+      "Q4 2023: Annual audit and electronic acknowledgment of Code of Conduct"
+    ],
+    "system_overrides": [
+      "After-hours access without written authorization",
+      "Solo after-hours work in high-security areas without special approval"
+    ],
+    "medical_findings": [],
+    "other_evidence": [
+      "Code of Conduct Version 4.1",
+      "Ethics Hotline (extension 7777)",
+      "Secured online portal for reporting violations",
+      "Video surveillance and random security checks for after-hours activities"
+    ]
+  },
+  "Will_Redacted.pdf": {
+    "key_people": [
+      "Dr. Ayaan Qureshi",
+      "Zara Qureshi",
+      "I. Siddiqui",
+      "Witness A",
+      "Witness B"
+    ],
+    "suspicious_actions": [
+      "Removal of Zara Qureshi as direct beneficiary",
+      "Introduction of significant changes in the amended distribution",
+      "Execution of amendment with unusual speed",
+      "Elevated security classification without precedent"
+    ],
+    "financial_anomalies": [
+      "Unusual allocation of 60% to Interim National Oversight Trust",
+      "Restricted access to 25% allocated to Ethical AI Research Trust"
+    ],
+    "timeline_events": [
+      "12 March 20XX: Original will date",
+      "02 August 20XX: Amendment date"
+    ],
+    "system_overrides": [
+      "Advisory involvement exceeding standard scope",
+      "Security classification exceeding standard scope"
+    ],
+    "medical_findings": [],
+    "other_evidence": [
+      "Testator's handwritten annotation expressing discomfort with the amendment",
+      "Witness statements indicating advisory pressure but no overt coercion"
+    ]
+  }
+}

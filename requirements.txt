@@ -1,0 +1,6 @@
+langchain-groq
+langchain
+python-dotenv
+pypdf
+pandas
+groq
